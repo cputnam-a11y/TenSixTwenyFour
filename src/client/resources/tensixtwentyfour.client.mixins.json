@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "tensixtwentyfour.mixin.client",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "RenderedChunkMixin",
+    "TerrainRenderContextMixin",
+    "WorldRendererAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}
